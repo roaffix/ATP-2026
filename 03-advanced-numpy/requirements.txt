@@ -1,0 +1,12 @@
+numpy
+matplotlib
+line_profiler
+ipython
+ipykernel
+cupy-cuda13x==14.2.0
+cuda-toolkit==13.4.1.0
+jax
+dpnp
+arrayfire-py
+threadpoolctl
+dpctl
