@@ -1,2 +1,5 @@
 # Virtual env
 .venv
+
+# wsl
+*Zone.Identifier
