@@ -1,0 +1,6 @@
+# Core dependencies (recent versions)
+numpy
+pandas
+matplotlib
+scikit-learn
+notebook
