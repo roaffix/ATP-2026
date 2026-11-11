@@ -3,3 +3,7 @@
 
 # wsl
 *Zone.Identifier
+
+# python
+**/__pycache__**
+
